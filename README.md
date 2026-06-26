@@ -4,9 +4,9 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/pintuyadav5468/"><img src="https://img.shields.io/badge/--0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="26"/></a>
+<a href="https://www.linkedin.com/in/pintuyadav5468/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="26"/></a>
 &nbsp;
-<a href="https://pintuyadav.com.np/"><img src="https://img.shields.io/badge/--1D9BF0?style=flat-square&logo=googlechrome&logoColor=white" height="26"/></a>
+<a href="https://pintuyadav.com.np/"><img src="https://img.shields.io/badge/Portfolio-1D9BF0?style=flat-square&logo=googlechrome&logoColor=white" height="26"/></a>
 &nbsp;
 <a href="https://x.com/pintuyadav5468"><img src="https://img.shields.io/badge/--000000?style=flat-square&logo=x&logoColor=white" height="26"/></a>
 &nbsp;

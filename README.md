@@ -72,6 +72,6 @@
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=pintuyadav5468&theme=github-dark-blue&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=pintuyadav5468&theme=github-dark-blue&hide_border=true&timezone=Asia%2FKathmandu" />
 
 </div>

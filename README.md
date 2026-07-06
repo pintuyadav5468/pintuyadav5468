@@ -65,9 +65,3 @@
 
 ---
 
-<div align="center">
-
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=pintuyadav5468&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github" />
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pintuyadav5468&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-
-</div>
